@@ -14,7 +14,7 @@ A wombat, of the family Vombatidae, known for its burrowing prowess, efficiently
 
 ### Contact Us
 
-Contact the developer at [mbileska@princeton.edu](mailto:mbileska@princeton.edu). 
+Contact the developer at [mbileska@princeton.edu](mailto:mbileska@princeton.edu) or [mbileska@cern.ch](mailto:mbileska@cern.ch). 
 
 ---
 ## About Event Displays
